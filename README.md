@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on "Uchis" & "zofX" - http://zofx.space
-- 🌱 I’m currently learning IOS & Front-End Developing
+- 🌱 I’m currently learning smart-contracts(Solidity, Rust), IOS & Front-End Developing
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: https://t.me/nurbak_zh
 <!--
