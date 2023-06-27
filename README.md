@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on "Julius Space" as a Front-End Developer
+- 🔭 Previously Front-End Intern in Yandxe
 - 🌱 I’m currently learning Front-End Developing & smart-contracts(Solidity, Rust) 
 - 👯 I’m looking to collaborate on any project
 - 📫 How to reach me: https://t.me/nurbak_zh
